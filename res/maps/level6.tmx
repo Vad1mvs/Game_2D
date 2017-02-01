@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="78" height="8" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="blocks" tilewidth="32" tileheight="32">
+  <image source="blocks.png" width="128" height="32"/>
+ </tileset>
+ <layer name="red" width="78" height="8">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2BoAhYoHgWjAAaY0fAoGNpgsORxRiyYVDBY/DKYAQsaHq4A3Z/k+hUAzLgATg==
+  </data>
+ </layer>
+ <layer name="black" width="78" height="8">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFgwkwQ/EoGAWjYHiC4ZTHh5NfRsEoGGoAAGmEABM=
+  </data>
+ </layer>
+ <layer name="blue" width="78" height="8">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjALKABMUDwcwnPwyCkbBKEAAJjRMa/NpXY4AADygABs=
+  </data>
+ </layer>
+ <layer name="yellow" width="78" height="8">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUYAOMUDwcwHDyyygYBaMAE4zm8ZEHACaUAAc=
+  </data>
+ </layer>
+ <objectgroup name="Coin" width="78" height="8">
+  <object x="368" y="141">
+   <ellipse/>
+  </object>
+  <object x="558" y="78">
+   <ellipse/>
+  </object>
+  <object x="911" y="206">
+   <ellipse/>
+  </object>
+  <object x="750" y="14">
+   <ellipse/>
+  </object>
+  <object x="1135" y="143">
+   <ellipse/>
+  </object>
+  <object x="1390" y="44">
+   <ellipse/>
+  </object>
+  <object x="1742" y="205">
+   <ellipse/>
+  </object>
+  <object x="2124" y="80">
+   <ellipse/>
+  </object>
+  <object x="1931" y="207">
+   <ellipse/>
+  </object>
+  <object x="1839" y="78">
+   <ellipse/>
+  </object>
+  <object x="1614" y="111">
+   <ellipse/>
+  </object>
+  <object x="846" y="109">
+   <ellipse/>
+  </object>
+  <object x="1198" y="50">
+   <ellipse/>
+  </object>
+  <object x="2064" y="208">
+   <ellipse/>
+  </object>
+  <object x="2382" y="77">
+   <ellipse/>
+  </object>
+ </objectgroup>
+</map>
